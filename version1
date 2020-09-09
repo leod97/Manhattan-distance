@@ -1,0 +1,2 @@
+def manhattan_distance(A, B):
+    return abs(B[0]-A[0])+abs(B[1]-A[1])
